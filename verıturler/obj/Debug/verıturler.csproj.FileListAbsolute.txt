@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\verıturler\verıturler\bin\Debug\verıturler.exe.config
+C:\Users\User\source\repos\verıturler\verıturler\bin\Debug\verıturler.exe
+C:\Users\User\source\repos\verıturler\verıturler\bin\Debug\verıturler.pdb
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.Form1.resources
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.Properties.Resources.resources
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.csproj.GenerateResource.cache
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.exe
+C:\Users\User\source\repos\verıturler\verıturler\obj\Debug\verıturler.pdb
